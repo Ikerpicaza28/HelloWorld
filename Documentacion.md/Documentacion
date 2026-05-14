@@ -1,7 +1,0 @@
-# DOCUMENTACION GIT
-
-## ¿Qué es Git?
-Git es un sistema de control de versiones.
-
-## Flujo de trabajo
-git add → git commit → git push
